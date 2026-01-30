@@ -40,5 +40,3 @@ python main.py
 - `main.py` — приложение с GUI и логикой конвертации
 
 ---
-
-**Автор:** [Nervol](https://github.com/Nervol)
